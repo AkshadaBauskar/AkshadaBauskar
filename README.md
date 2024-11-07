@@ -4,8 +4,11 @@ I’m a passionate Data Scientist and IT Analyst with a strong background in aut
 🔧 Skills:
 
 Programming Languages: Python, SQL, R
+
 Data Science: Machine Learning, Data Visualization, Statistical Analysis
+
 Tools & Technologies: TensorFlow, Keras, Streamlit, Git, Jupyter Notebook
+
 Web Development: Flask and Streamlit for interactive applications
 
 📁 Projects:
