@@ -1,5 +1,4 @@
-# Akshada Bauskar — Data Science Portfolio  
-
+# Akshada Bauskar 
 Welcome to my Data Science Portfolio!  
 This repository showcases my **end-to-end projects** in Machine Learning, Data Analysis, BI Dashboards, and Full-Stack Data Apps.  
 It demonstrates my ability to work across the **entire data lifecycle** — from raw data ingestion and cleaning to modeling, visualization, and deployment.  
