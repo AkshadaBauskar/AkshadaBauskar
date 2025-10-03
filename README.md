@@ -1,50 +1,86 @@
-Hi there! 👋 I'm Akshada Bauskar
-🎓 Pursuing Master’s in Data Science at the University of the Cumberlands, I am passionate about leveraging data-driven insights to create innovative solutions and make impactful contributions to the field of technology.
+# Akshada Bauskar — Data Science Portfolio  
 
-🔧 Skills:
-Programming Languages: Python, SQL, R
-Data Science Expertise: Machine Learning, Data Visualization, Statistical Analysis
-Tools & Technologies: TensorFlow, Keras, Streamlit, Git, Jupyter Notebook
-Web Development: Flask and Streamlit for interactive applications
+Welcome to my Data Science Portfolio!  
+This repository showcases my **end-to-end projects** in Machine Learning, Data Analysis, BI Dashboards, and Full-Stack Data Apps.  
+It demonstrates my ability to work across the **entire data lifecycle** — from raw data ingestion and cleaning to modeling, visualization, and deployment.  
 
-🚀 Projects
-Take a look at some of the exciting projects in my repositories:
-1. **Beverage Price Prediction** [Beverage Price Prediction](https://github.com/AkshadaBauskar/Beverage_Price_Prediction): 
-A machine learning project for predicting optimal beverage price ranges based on customer demographics, preferences, and behaviors.
-  Leveraged XGBoost for the best performance (92.54% accuracy)
-  Feature Engineering: Introduced Zone Affluence Score and Brand Switching Indicator
-  End-to-end ML pipeline from data preprocessing to deployment
-  Access the live application here: [Beverage Price Prediction](https://beveragepriceprediction-fkw9mnjya2zrtk96vrctva.streamlit.app/)
+---
 
-2. **Healthcare Premium Prediction** [Healthcare Premium Prediction](https://github.com/AkshadaBauskar/Healthcare-Premium-Prediction):
-A predictive model for estimating healthcare insurance premiums based on demographic and medical factors.
-  Predict premiums with high accuracy (>97%)
-  Interactive Streamlit App for real-time predictions
-  Extensive preprocessing, including outlier treatment, feature engineering, and multicollinearity reduction
-  Access the live application here: [Healthcare Premium Prediction App](https://healthcare-premium-predictions.streamlit.app/).
+## About Me  
+I am a **Data Science Graduate** skilled in Python, SQL, R, and Machine Learning. Completed my **MS in Data Science** at the University of the Cumberlands.  
+Previously, I worked at **Tata Consultancy Services (Bank of America Merrill Lynch client)**, where I gained experience in enterprise-scale data systems and automation.  
+My portfolio highlights diverse domains: finance, healthcare, hospitality, energy, education, retail, and cybersecurity.  
 
-3. **Credit Risk Modeling** [Credit Risk Modeling](https://github.com/AkshadaBauskar/ml-project-Credit-Risk-Classification):
-A predictive model for NBFC Finance companies to assess credit risk and provide a scoring system.
-  Predict Default Probability: Calculates the likelihood of default
-  Scorecard System: Categorizes credit risk into Poor, Average, Good, and Excellent ratings
-  Streamlit App: Real-time predictions with an intuitive interface for loan officers
+---
 
-4. **Expense Management System** [Expense Management System](https://github.com/AkshadaBauskar/EXPENSE-MANAGEMENT-SYSTEM):
-A web-based application built using FastAPI, Streamlit, and MySQL for tracking, analyzing, and managing personal or business expenses. Features include:
-  Expense entry and tracking
-  Monthly and categorical analytics
-  User-friendly interface for detailed insights
+## Featured Machine Learning Projects  
 
-5. **Hospitality Analysis** [Hospitality Analysis](https://github.com/AkshadaBauskar/DATA-ANALYSIS-PROJECTS):
-A data analysis project focused on the hospitality industry, providing insights into key performance metrics and trends. Highlights include:
-  Extensive exploratory data analysis
-  Visualizations to derive actionable insights for operational improvements.
+- [**Phishing Domain Detection System**](https://github.com/AkshadaBauskar/Phishing_Domain_Detection_System)  
+  ML-powered cybersecurity project using Gradient Boosting, MLflow, FastAPI, Docker, and AWS S3.  
+  Achieved **93.6% Accuracy, 94.2% Recall, 98.8% ROC-AUC**.  
 
-6. **Dog Breed Prediction** [Dog Breed Prediction](https://github.com/AkshadaBauskar/IMAGE-PROCESSING-AND-COMPUTER-VISION-PROJECTS):
-A deep learning application that classifies dog breeds using image data. Features include:
-  Convolutional Neural Networks (CNNs) for image processing
-  Built using TensorFlow and Keras
-  Demonstrates end-to-end model development, training, and deployment
+- [**Hugging Face Product Recommendation System**](https://github.com/AkshadaBauskar/HuggingFace_Based_Product_Recommendation_System)  
+  Content-based recommendation engine using Hugging Face embeddings (BGE-small).  
 
-📫 Connect with me:
-Feel free to reach out or collaborate on interesting projects! You can find me on LinkedIn or email me at akshada.bauskar171222@gmail.com.
+- [**Beverage Price Prediction**](https://github.com/AkshadaBauskar/Beverage_Price_Prediction)  
+  Regression pipeline with XGBoost and Streamlit deployment (R² > 95%).  
+
+- [**ARIMA-Based Tractor Sales Forecasting**](https://github.com/AkshadaBauskar/ARIMA-TimeSeries-Forecasting--TractorSales-)  
+  SARIMA/ARIMAX forecasting with 36-month predictions for inventory planning.  
+
+- [**Credit Risk Modeling & Loan Default Prediction**](https://github.com/AkshadaBauskar/ml-project-Credit-Risk-Classification)  
+  End-to-end ML pipeline with AUC 0.98, Gini 0.96, KS 85.98.  
+
+- [**IMDB Sentiment Analysis**](https://github.com/AkshadaBauskar/IMDB_Movie_Review_Sentiment_Analysis)  
+  NLP model using word embeddings + CNN achieving ~89% accuracy.  
+
+- [**Customer Churn Prediction**](https://github.com/AkshadaBauskar/Customer_Churn_Prediction)  
+  ANN-based churn classification with threshold calibration and cohort analysis.  
+
+- [**Customer Segmentation**](https://github.com/AkshadaBauskar/Unsupervised_Learning_Customer_Segments)  
+  K-Means/Gaussian Mixture clustering with PCA dimensionality reduction.  
+
+- [**Algerian Forest Fires Prediction**](https://github.com/AkshadaBauskar/Algerian_Forest_Fires_Prediction)  
+  Ridge regression pipeline achieving R² 98% on wildfire risk prediction.  
+
+---
+
+## Data Analysis & BI Projects  
+
+- [**Agriculture – Seasons Analysis (Power BI)**](https://github.com/AkshadaBauskar/Agriculture-Seasons-Analysis-PowerBI)  
+- [**Energy Consumption – Tableau Dashboard**](https://github.com/AkshadaBauskar/Energy-Consumption-Analytics-Dashboard-)  
+- [**Spotify SQL Analysis & Optimization**](https://github.com/AkshadaBauskar/DATA-ANALYSIS-PROJECTS/tree/main/Spotify_Data_Analysis_using_SQL)  
+- [**Hotel Booking Analysis – Python EDA**](https://github.com/AkshadaBauskar/DATA-ANALYSIS-PROJECTS/tree/main/Hotel_Booking_Analysis)  
+- [**ElectroHub – Power BI Dashboard**](https://github.com/AkshadaBauskar/ElectroHub-Analytical-Dashboard-PowerBI)  
+- [**Loan Default Risk – Power BI Dataflow**](https://github.com/AkshadaBauskar/Loan-Default-Risk-Dashboard-PowerBI)  
+- [**Wine Quality EDA – Python**](https://github.com/AkshadaBauskar/DATA-ANALYSIS-PROJECTS/tree/main/Wine_Quality_Analysis)  
+- [**Insurance Analytics – Power BI**](https://github.com/AkshadaBauskar/Insurance-Analytics-Dashboard-PowerBI)  
+- [**UPI Transactions Analysis – Power BI**](https://github.com/AkshadaBauskar/UPI-transactions-Analysis-PowerBI)  
+- [**Google Playstore Analysis – Python EDA**](https://github.com/AkshadaBauskar/DATA-ANALYSIS-PROJECTS/tree/main/Google_Playstore_Analysis)  
+- [**Inventory Management – Power BI Migration**](https://github.com/AkshadaBauskar/Inventory-Management-PowerBI)  
+- [**Student Depression – Tableau Dashboard**](https://github.com/AkshadaBauskar/Student_Depression_Tableau)  
+- [**Housing Market – Power BI**](https://github.com/AkshadaBauskar/Housing-Market-PowerBI)  
+- [**Flight Price EDA – Python**](https://github.com/AkshadaBauskar/Data-Analysis-Projects/tree/main/Flight_Price_EDA)  
+- [**Brand Analysis – Azure SQL + Power BI**](https://github.com/AkshadaBauskar/Brand-Analysis-PowerBI)  
+- [**AI Banking – Power BI Dashboard**](https://github.com/AkshadaBauskar/AI-Banking-PowerBI)  
+
+---
+
+## Skills & Tech Stack  
+
+**Languages & ML:** Python, R, SQL, Scikit-learn, TensorFlow, Keras  
+**Visualization & BI:** Tableau, Power BI, Matplotlib, Seaborn, Streamlit  
+**Databases & Cloud:** MySQL, Snowflake, PostgreSQL, AWS S3, Azure SQL, MongoDB  
+**MLOps & Deployment:** MLflow, Docker, GitHub Actions, FastAPI, AWS EC2  
+
+---
+
+## Contact  
+
+- Email: [akshada.bauskar171222@gmail.com](mailto:akshada.bauskar171222@gmail.com)  
+- LinkedIn: [linkedin.com/in/akshadabauskar](https://www.linkedin.com/in/akshadabauskar/)  
+- Portfolio Website: [akshadabauskar.github.io](https://akshadabauskar.github.io)  
+
+---
+
+This portfolio reflects my journey from **QA Automation** to **Data Science**, showcasing versatility across **ML, BI, SQL, and cloud-based solutions**.  
